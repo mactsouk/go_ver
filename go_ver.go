@@ -5,10 +5,10 @@ import (
 )
 
 func init() {
-	fmt.Println("Inside init() 3.0.0")
+	fmt.Println("Inside init() 4.0.0")
 }
 
 func CallMe() {
-	fmt.Println("go_ver 3.0.0")
+	fmt.Println("go_ver 4.0.0")
 }
 
